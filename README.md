@@ -1,4 +1,4 @@
-# Metagenomic Investigation of Viral Diversity in Hospital Sludge Water (Ongoing)
+# A Metagenomic Investigation of Viral Diversity in Hospital Sludge Water (Ongoing)
 
 ## Overview
 This project explores viral diversity in hospital sludge water using shotgun metagenomic sequencing.
